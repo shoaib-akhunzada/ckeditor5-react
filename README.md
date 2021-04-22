@@ -6,7 +6,7 @@
   
 <h2>Add / Remove plugins </h2>
 <ul>
-  <li> npm install 'plugin-name' </li>
+  <li> npm install 'plugin-name'  (/vender/ ckeditor5-with-track-changes) </li>
   <li>update  /vender/ ckeditor5-with-track-changes/src/ckeditor.js </li>
   <li> npm run build (/vender/ ckeditor5-with-track-changes) </li>
 </ul>
