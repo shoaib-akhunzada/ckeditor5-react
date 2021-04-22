@@ -5,12 +5,10 @@
   - Add / Remove plugins (vender/ ckeditor5-with-track-changes)
   
 <h2>Add / Remove plugins </h2>
-  - npm install "plugin-name"
-  
-  - update  /vender/ ckeditor5-with-track-changes/src/ckeditor.js
-
-  - npm run build (/vender/ ckeditor5-with-track-changes)
+- npm install 'plugin-name'
+- update  /vender/ ckeditor5-with-track-changes/src/ckeditor.js
+- npm run build (/vender/ ckeditor5-with-track-changes)
 
 <h2>Configuration and setup </h2>
-  1)	npm install
-  2)	npm start
+  - npm install
+  - npm start
