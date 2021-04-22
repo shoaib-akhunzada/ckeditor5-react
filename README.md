@@ -10,5 +10,7 @@
 - npm run build (/vender/ ckeditor5-with-track-changes)
 
 <h2>Configuration and setup </h2>
-  - npm install
-  - npm start
+<ul>
+  <li>npm install<li>
+   <li>npm start<li>
+  </ul>
